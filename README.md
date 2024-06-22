@@ -16,7 +16,6 @@ This project demonstrates the application of Python programming and various data
 ## Project Structure
 
 - `data analysis of tesla and gamestop.ipynb`: Jupyter Notebook containing the code to extract, analyze, and visualize Tesla  and gamestock stock data.
-- 
 - `README.md`: This file, providing an overview of the project.
 
 ## Tools and Libraries
